@@ -1,8 +1,11 @@
+i vibecoded this shit
+here is it deployed on vimu.ajbali.com
+
+
+
 # ViMu
 
 A high-performance, immersive 3D audio visualizer built with **Three.js** and **Vite**.
-
-![ViMu Hero](file:///C:/Users/Yahya/.gemini/antigravity/brain/3730d20f-8d47-45cc-a8cf-feba3e2880e2/visualizer_moment_1_1772725680270.png)
 
 ## Features
 
