@@ -1,0 +1,22 @@
+{
+  "name": "vimu",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/jsmediatags": "^3.9.6",
+    "@types/three": "^0.183.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "jsmediatags": "^3.9.7",
+    "meyda": "^5.6.3",
+    "three": "^0.160.0"
+  }
+}
